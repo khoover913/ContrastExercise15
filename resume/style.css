@@ -1,0 +1,52 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700,700italic);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
+
+h1 {
+  color: midnightblue;
+  font-size: 45px;
+  margin-bottom: 5px;
+  text-align: center;
+  font-family: PT Serif;
+}
+
+#contact {
+  font-family: Noto Sans;
+  line-height: 1.4em;
+  text-align: center;
+  font-size: 15px;
+}
+
+h2 {
+  color: midnightblue;
+  font-size: 32px;
+  margin-bottom: 4px;
+  font-family: PT Serif;
+}
+
+h3 {
+  color: darkslategray;
+  margin-bottom: 4px;
+  font-family: PT Serif;
+  font-size: 20px;
+}
+
+#objective {
+  font-family: Noto Sans;
+  float: left;
+  text-align: left;
+}
+
+#highlights {
+  font-family: Noto Sans;
+  float: right;
+  text-align: left;
+}
+
+#skills {
+  font-family: Noto Sans;
+  float: left;
+}
+
+body {
+  background-color: gainsboro;
+}
